@@ -65,14 +65,14 @@ global.owner = ['94772356258'] //ur number
 global.ownertag = '94772356258' //ur tag number
 global.botname = '📶 M⃠H⃠N⃠ 𝗕𝗢𝗧 ꧁Created By - Mαʅιԃυ Hαɳʂαɳα꧂ 📶' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.websitex = "https://youtu.be/QOrSnysnwWY" //ur website to be displayed
+global.botscript = 'https://github.com/MaliduBotPrivate' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 M⃠H⃠N⃠ 𝗕𝗢𝗧 ⫷Mαʅιԃυ Hαɳʂαɳα⫸ 📶" //ur sticker watermark packname
+global.author = "📶 Malidu Hansana 📶" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
+global.menuimg = "https://i.ibb.co/RQZD9v9/Picsart-22-10-26-21-10-35-858.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -81,7 +81,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9467443454'] //ur premium numbers
+global.premium = ['94772356258'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
